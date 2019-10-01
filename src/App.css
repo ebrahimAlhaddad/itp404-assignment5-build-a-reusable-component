@@ -1,5 +1,28 @@
+.modal-wrapper{
+  background-color: rgb(89,194,192);
+  font-family: "Helvetica Neue", Helvetica;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  width: 50%;
+  height: 50%;
+  /*margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 25%;
+  margin-bottom: 25%;*/
+  top:25%;
+  right: 25%;
+  text-align: center;
+  border-radius: 6px;
+  color:white;
+  position: absolute;
+}
+.modal-wrapper #close-btn{
+  text-align: right !important;
+}
 .App {
   text-align: center;
+  color:black;
 }
 
 .App-logo {
